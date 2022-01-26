@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Daniela Vieira 👋
 
 - 👩‍🎓 Técnica em Informática (IFPI);
-- 👩‍🎓 Análise em Desenvolvimento de Sistema (Estácio);
+- 👩‍🎓 Análise e Desenvolvimento de Sistema (Estácio);
 - 📖 Atualmente estou aprendendo <b><i>React</i></b> e <b><i>JavaScript</i></b>
 - 📚 Back End (Anhanguera);
 - 👩‍💻📞 Trabalho com <b>Suporte ao Cliente</b> e <b>Recepcionista</b>
