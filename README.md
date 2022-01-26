@@ -6,7 +6,7 @@
 - 📚 Back End (Anhanguera);
 - 👩‍💻📞 Trabalho com <b>Suporte ao Cliente</b> e <b>Recepcionista</b>
 - 👯 Procuro colaborar em projetos de <i>Desenvolvimento Web</i> e <i>React</i>
-- ✈🌎 Pretendo trabalhar em <b>Back-End</b> e <b>Front-End</b>
+- ✈🌎 Pretendo trabalhar com <b>Back-End</b> e <b>Front-End</b>
 - 📝 Aprendendo <b>Inglês</b> e <b>Espanhol</b>
 <br>
 <br>
