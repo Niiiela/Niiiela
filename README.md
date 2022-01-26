@@ -8,13 +8,16 @@
 - 👯 Procuro colaborar em projetos de <i>Desenvolvimento Web</i> e <i>React</i>
 - ✈🌎 Pretendo trabalhar em <b>Back-End</b> e <b>Front-End</b>
 - 📝 Aprendendo <b>Inglês</b> e <b>Espanhol</b>
-
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/Niiiela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niiiela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niiiela&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ <br>
+<br>
   
  ## 
   <div style="display: inline_block" align="center"><br>
