@@ -1,4 +1,6 @@
-
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/72155cca-6cb6-4efc-b02a-53d270185d1c"/>
+<br>
+<br> 
 <img src="https://github.com/user-attachments/assets/ac937112-01c0-420f-9d02-669c8393010c"/>
 ## Olá! Eu sou a Daniela Vieira 👋
 
