@@ -1,3 +1,4 @@
+<img height="200em" src="https://github.com/Niiiela/Niiiela/blob/main/img/github-header-image%20(2).png" />
 ## Olá! Eu sou a Daniela Vieira 👋
 
 - 👩‍🎓 Técnica em Informática (IFPI);
