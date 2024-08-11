@@ -50,4 +50,34 @@
     
   ![Snake animation](https://github.com/Niiiela/Niiiela/blob/output/github-contribution-grid-snake.svg)
   </div>
-  ggfdffmkfkffdkfdkfdkfdkfdk
+  
+  <p>Teste</p>
+
+
+
+  /*
+6 CSS personalizado dependendo da animação desejada
+Devem ser adicionadas na frente do código essencial do item 7.
+*/
+.fadeInDown {
+  transform: translate3d(0, -20px, 0);
+}
+.fadeInUp {
+  transform: translate3d(0, 20px, 0);
+}
+.fadeInRight {
+  transform: translate3d(20px, 0, 0);
+}
+.fadeInLeft {
+  transform: translate3d(-20px, 0, 0);
+}
+
+/* 7 Adicione o CSS Essencial abaixo */
+[data-anime] {
+  opacity: 0;
+}
+.anime {
+  opacity: 1;
+  transform: none;
+  transition: transform 0.8s, opacity 0.8s;
+}
