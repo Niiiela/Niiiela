@@ -1,3 +1,4 @@
+![github-header-image (2)](https://github.com/user-attachments/assets/30c55aae-6de7-4727-9bed-1f154c3dd6ea)
 
 ## Olá! Eu sou a Daniela Vieira 👋
 
