@@ -29,7 +29,7 @@
     <img align="center"  height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center"  height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   
-  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://github.com/Niiiela/Niiiela/blob/main/img/71.jpg"/>
+  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://github.com/Niiiela/Niiiela/.github/img/71.jpg"/>
 </div>
   
   
