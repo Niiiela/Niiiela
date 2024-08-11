@@ -2,6 +2,7 @@
 <br>
 <br> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
 
 - 👩‍🎓 Técnica em Informática (IFPI);
 - 👩‍🎓 Análise e Desenvolvimento de Sistema (Estácio);
