@@ -1,5 +1,5 @@
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/ac937112-01c0-420f-9d02-669c8393010c"/>
+<img width=100% src="https://github.com/user-attachments/assets/ac937112-01c0-420f-9d02-669c8393010c"/>
 ## Olá! Eu sou a Daniela Vieira 👋
 
 - 👩‍🎓 Técnica em Informática (IFPI);
