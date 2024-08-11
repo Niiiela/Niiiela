@@ -1,4 +1,4 @@
-<hr color="red">
+<hr style="color:red">
 ## Olá! Eu sou a Daniela Vieira 👋
 
 - 👩‍🎓 Técnica em Informática (IFPI);
