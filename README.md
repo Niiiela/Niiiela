@@ -1,10 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/72155cca-6cb6-4efc-b02a-53d270185d1c"/>
 <br>
 <br> 
-<br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&letterSpacing=Normal&duration=2000&pause=500&color=000000&width=1000&height=300&lines=-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+T%C3%A9cnica+em+Inform%C3%A1tica;-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+An%C3%A1lise+e+Desenvolv+de+Sistemas;-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+Back-End;-+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBHelp+desk;-+%F0%9F%93%9A+Estudante+de+Programa%C3%A7%C3%A3o+)](https://git.io/typing-svg)
-
 <br>
 <br>
 
