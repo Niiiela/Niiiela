@@ -50,4 +50,9 @@
   ![Snake animation](https://github.com/Niiiela/Niiiela/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-  
+  <p>Teste</p>
+  <script src="./js/plugins/simple-anime.js"></script>;
+
+// 3 - Inicie a classe do slide:
+
+new SimpleAnime();
