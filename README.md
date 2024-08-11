@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=500&lines=-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+T%C3%A9cnica+em+Inform%C3%A1tica;-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+An%C3%A1lise+e+Desenvolv+de+Sistemas;-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+Back-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=000000&width=700&height=100&lines=-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+T%C3%A9cnica+em+Inform%C3%A1tica;-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+An%C3%A1lise+e+Desenvolv+de+Sistemas;-+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+Back-End)](https://git.io/typing-svg)
 
 - 👩‍🎓 Técnica em Informática (IFPI);
 - 👩‍🎓 Análise e Desenvolvimento de Sistema (Estácio);
