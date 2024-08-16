@@ -2,6 +2,8 @@
 <br>
 <br>
 <br>
+<hr>
+<img width=15% bottom=50px src="https://github.com/user-attachments/assets/90acdda6-b2da-49b4-8703-43da951f33ad"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=35&letterSpacing=center&pause=1000&color=F7F7F7&width=435&lines=T%C3%A9cnico+em+Inform%C3%A1tica;An%C3%A1lise+e+desenvolvimento+de+Sistema+;Back-End)](https://git.io/typing-svg)
 
