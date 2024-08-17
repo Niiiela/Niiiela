@@ -1,3 +1,5 @@
+![snake animation](https://github.com/Niiiela/Niiiela/blob/output/github-contribution-grid-snake2.svg)
+
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/1288280b-662a-4c0b-ae5c-bfceba73484f"/>
 
