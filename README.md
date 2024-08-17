@@ -1,19 +1,16 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/1288280b-662a-4c0b-ae5c-bfceba73484f"/>
-<br>
-<br>
-<br>
 <hr>
-<img width=15% bottom=50px src="https://github.com/user-attachments/assets/90acdda6-b2da-49b4-8703-43da951f33ad"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=35&letterSpacing=center&pause=1000&color=F7F7F7&width=435&lines=T%C3%A9cnico+em+Inform%C3%A1tica;An%C3%A1lise+e+desenvolvimento+de+Sistema+;Back-End)](https://git.io/typing-svg)
+<div align="left">
+  <img width=15% bottom=50px src="https://github.com/user-attachments/assets/90acdda6-b2da-49b4-8703-43da951f33ad"/>
+  <br><br> <br><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/Niiiela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niiiela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niiiela&layout=compact&langs_count=7&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Niiiela&rank_icon=github&theme=transparent"/>                         
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niiiela&layout=compact&langs_count=7&theme=transparent"/>
+  </a>
 </div>
- <br>
-<br>
 
   
  ## 
