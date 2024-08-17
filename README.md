@@ -1,9 +1,13 @@
+
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/1288280b-662a-4c0b-ae5c-bfceba73484f"/>
-<hr>
+
+#
 <div align="left">
   <img width=15% bottom=50px src="https://github.com/user-attachments/assets/90acdda6-b2da-49b4-8703-43da951f33ad"/>
   <br><br> <br><br>
 </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/Niiiela">
