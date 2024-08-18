@@ -31,7 +31,7 @@ jobs:
           github_user_name: Niiiela
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=red
+            snake_color: 'blue'
             
             
           
