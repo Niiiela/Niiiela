@@ -20,7 +20,7 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 10
     
     
     steps:
@@ -31,7 +31,7 @@ jobs:
           github_user_name: Niiiela
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=red
             
             
           
